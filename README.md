@@ -11,3 +11,10 @@ Użytkownik do obsługi urządzenia wykorzystuje graficzny interfejs na telefoni
 -	Dostrajanie systemu, gdzie możemy na stałe zablokować lub odblokować drzwi, w tym też stanie kamera drzwiczek jest wyłączona, lub wymusić otwarcie i zamknięcie (z poszanowaniem bezpieczeństwa zwierzęcia). Możliwe jest także zmiana czasu, po którym drzwiczki się zamykają z przedziału od 1 do 10 sekund, gdyby zwierzę miało problem z przejściem. 
   
 -	Widok z kamery, który jest wysyłany użytkownikowi na telefon wraz z widokiem wykrytego zwierzęcia. Aplikacja działa, nawet jeżeli telefon użytkownika nie jest podłączony do sieci lokalnej - pozwalając na sprawdzenie stanu obserwowanego pokoju. Użytkownik posiada też możliwość zwiększenia częstotliwości, z jaką każde zdjęcie jest analizowane przez SI z przedziału od 3 do 15s. 
+
+
+Zrzuty ekranu aplikacji
+
+![alt text](image.png)
+![alt text](image-1.png)
+![alt text](image-2.png)
